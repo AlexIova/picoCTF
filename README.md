@@ -1,3 +1,3 @@
 # picoCTF
 
-Un repository per le varie challenge di [picoCTF](https://play.picoctf.org/practice)
+Un repository per le varie challenge di [picoCTF](https://play.picoctf.org/practice) divise per categoria.
